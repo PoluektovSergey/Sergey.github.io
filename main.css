@@ -1,0 +1,38 @@
+.text {
+    margin-left: 30px;
+}
+
+.table1 {
+    margin-top: 70px;
+}
+
+table {
+    width: 30%;
+    background: black;
+    color: black;
+    border-spacing: 2px;
+}
+
+td,
+th {
+    background: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.form-item {
+    margin-right: 15px;
+}
